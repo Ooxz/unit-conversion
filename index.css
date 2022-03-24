@@ -1,0 +1,38 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Inter';
+}
+
+header {
+    background: linear-gradient(#585DFE, #FB3796);
+    text-align: center;
+    padding: 70px;
+    color: white;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+#number {
+    color: white;
+    text-align: center;
+    font-weight: 800;
+    line-height: 24px;
+    border: 0;
+    outline: 0;
+	width: 100%;
+    background: transparent;
+    font-size: 97.5723px;
+}
+
+main {
+    text-align: center;
+}
+
+.title-mesures {
+    margin-top: 35px
+}
